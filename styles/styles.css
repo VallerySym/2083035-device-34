@@ -776,6 +776,12 @@ img {
   outline-offset: 8px;
 }
 
+/* Main */
+
+.main-container{
+flex-grow: 1;
+}
+
 /* Slider */
 
 .slider {
@@ -1638,7 +1644,6 @@ img {
   margin: 0;
   padding: 63px 0 45px 0;
   background-color: #444444;
-  flex-grow: 1
 }
 
 .footer-container {
